@@ -5,4 +5,4 @@
 * Integrated SQLite In-Memory database to support quicker logging times.
 * Developed a reusable, modularised database API to facilitate logging of statistics.
 * Process statistics like CPU Utilization, Memory Utilization, Number of threads were logged.
-* Developed a multi layered, distributed application. GUI Client, Process Server, DB Server were all different entities.
+* Developed a multi layered, distributed application. GUI Client, Process Server, Database Server were all different entities.
